@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about open-source software and hardware. The areas I like to explore are *embedded systems*, *compilers*, and *operating systems*.
 
-I'm also interested in amature radio 📻 and astronomy 🔭. My amature radio callsign is 4S6DRJ.
+I'm also interested in amateur radio 📻 and astronomy 🔭. My amateur radio call-sign is 4S6DRJ.
 
 - I regulary write articles on [jayakody2000lk.blogspot.com](http://jayakody2000lk.blogspot.com/).
 - All my DIY electronics videos are listed in [Dilshan's Electronics Lab channel](https://www.youtube.com/channel/UCFZKMrXDGAuHkDaxumKK2GA) 📺. 
